@@ -14,7 +14,6 @@
           "components": "./app/components",
           "containers": "./app/containers",
           "utils": "./app/utils",
-          "zt-component-lib": "../zt-component-lib/build",
         }
       }
     ],
