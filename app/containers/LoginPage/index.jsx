@@ -31,7 +31,7 @@ const LoginPage = (props) => {
 
   return (
     <div className="login-box-layout">
-      <div className="login-box__label">Zylo Login</div>
+      <div className="login-box__label">App Login</div>
       <form action="">
         <div className="login-box__textfields">
           <input
